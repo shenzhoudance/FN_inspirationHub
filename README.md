@@ -29,10 +29,6 @@
 - - - - -
 #### changelog
 
+- 功能启动日期：2017年03月06日  xxxxxxxxx
 
-- 功能启动日期：2017年03月06日  
-- vvvvyyyyy
-- xxxxxx
-- cccccccc
-- ddddd
-
+- YYYYYYYYY
